@@ -1,0 +1,115 @@
+{
+  "cups": [
+    {
+      "id": "12A4CD9E-F969-7106-0E70-A8214ED12111",
+      "title": "Žirklės",
+      "description": "Geltonos spalvos žirklės",
+      "categoryId": 3,
+      "img": "./zirkles.jfif",
+      "price": 2.99
+    },
+    {
+      "id": "5F7922A2-19DB-CAD4-4291-1B137C44D066",
+      "title": "Aplankalas",
+      "description": "Mėlynas aplankalas",
+      "categoryId": 1,
+      "img": "./aplankalas.jfif",
+      "price": 2.99
+    },
+    {
+      "id": "815C5D64-820D-2DCD-10AA-59EE2D0BC780",
+      "title": "Tušinukas",
+      "description": "Tušinukas su stoveliu",
+      "categoryId": 2,
+      "img": "./tusinukas.jfif",
+      "price": 5.99
+    },
+    {
+      "id": "E9522542-AB55-9279-A13C-03645AE88D28",
+      "title": "Aplankalas oranžinis",
+      "description": "Oranžinės spalvos aplankalas",
+      "categoryId": 1,
+      "img": "./aplankalas_oranzinis.jfif",
+      "price": 0.77
+    },
+    {
+      "id": "25D5DF9E-91AA-0358-D7DA-A70C6C448F2A",
+      "title": "Markeris",
+      "description": "Markeris piešimui ant lentos",
+      "categoryId": 2,
+      "img": "./markeris.jfif",
+      "price": 6.99
+    },
+    {
+      "id": "F1BB0713-A37A-9766-7896-26BDADC62132",
+      "title": "Papkė",
+      "description": "Mėlyna papkė",
+      "categoryId": 2,
+      "img": "./papke.jfif",
+      "price": 5.80
+    },
+    {
+      "id": "FDEA9082-2D95-F3B3-A5B2-F851EC375AAC",
+      "title": "Virvutės",
+      "description": "Trijų spalvų virvučių komplektas",
+      "categoryId": 3,
+      "img": "./virvutes.jfif",
+      "price": 7.00
+    },
+    {
+      "id": "6B09AC86-EBD2-41B1-1733-2AEEFE491165",
+      "title": "Lapeliai",
+      "description": "Klijuojami lapeliai",
+      "categoryId": 2,
+      "img": "./lapeliai.jfif",
+      "price": 4.99
+    },
+    {
+      "id": "A565A92E-71B7-BEC0-EB49-A8E5B52DB31B",
+      "title": "Stovas",
+      "description": "Juodos spalvos dokumetų stovas",
+      "categoryId": 1,
+      "img": "./stovas.jfif",
+      "price": 8.00
+    },
+    {
+      "id": "A565A92E-71B7-BEC0-EB49-A8E5B52DB31B",
+      "title": "Sąvaržos",
+      "description": "Sąvaržų komplektas",
+      "categoryId": 1,
+      "img": "./savarzos.jfif",
+      "price": 3.00
+    },
+    {
+      "id": "A565A92E-71B7-BEC0-EB49-A8E5B52DB31B",
+      "title": "Juostelės",
+      "description": "Lipnios juostelės",
+      "categoryId": 1,
+      "img": "./juosteles.jfif",
+      "price": 2.00
+    },
+    {
+      "id": "A565A92E-71B7-BEC0-EB49-A8E5B52DB31B",
+      "title": "Drožukas",
+      "description": "Žalios spalvos drožtukas",
+      "categoryId": 2,
+      "img": "./droztukas.jfif",
+      "price": 4.00
+    }
+
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Ofisui"
+    },
+    {
+      "id": 2,
+      "title": "Mokslams"
+    },
+    {
+      "id": 3,
+      "title": "Namams"
+    }
+  ]
+}
